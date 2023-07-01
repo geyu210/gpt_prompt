@@ -1,0 +1,3 @@
+Cairo — which is used for writing smart contracts on Starknet and StarkEx as well as scaling applications such as dYdX and ImmutableX —
+ has seen its number of full-time developers increase by a staggering 875% over the past two years and by 83% year-on-year. And since Cairo can be used outside
+ blockchains whenever any proof of computation is required, adoption of Cairo by developers is expected to only rise.

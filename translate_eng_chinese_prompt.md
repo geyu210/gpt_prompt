@@ -32,6 +32,8 @@ Incorrect: 乔布斯那句话是怎么说的？「Stay hungry，stay foolish。�
 
 Now, please translate the following English article into Chinese:
 
-[
-Joan say:"I will do `vue` this well, I have 1000 dollar"]()
+
+Joan say:"I will do `vue` this well, I have 1000 dollar"
+
+
 
